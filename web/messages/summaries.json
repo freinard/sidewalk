@@ -1,0 +1,29 @@
+[
+    {
+        "id" : "1",
+        "message_id": "1",
+        "date" : "04/19/2012 8:15 PM",
+        "status": "New",
+        "by": "Dr. Fritz",
+        "subject": "Knee Problems",
+        "sample" : "Sample of message"
+    },
+    {
+        "id" : "2",
+        "message_id": "2",
+        "date" : "01/19/2011 8:25 AM",
+        "status": "Read on 01/19/2011 10:00 AM",
+        "by": "Dr. Fritz",
+        "subject": "More Knee Problems",
+        "sample" : "Sample of message"
+    },
+    {
+        "id" : "3",
+        "message_id": "3",
+        "date" : "01/19/2013 10:15 PM",
+        "status": "Read on 01/19/2013 8:00 PM",
+        "by": "Nurse Gem",
+        "subject": "Chest Congestion",
+        "sample" : "Sample of message"
+    }
+]
